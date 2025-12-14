@@ -5,7 +5,7 @@
 
 ## About Me
 
-I'm a software developer based in India with a passion for building practical solutions and sharing knowledge.
+I'm an engineer based in India with a passion for building practical solutions and sharing knowledge.
 
 - 🏢 Last seen building platforms at CRED 
 - 🌱 Constantly learning and exploring new tech
