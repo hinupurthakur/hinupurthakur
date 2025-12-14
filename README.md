@@ -1,16 +1,21 @@
-## Hi there 👋
 
-<!--
-**hinupurthakur/hinupurthakur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Nupur 👋
 
-Here are some ideas to get you started:
+> 🚀 Currently vibing at [@CRED-CLUB](https://github.com/CRED-CLUB)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I'm a software developer based in India with a passion for building practical solutions and sharing knowledge.
+
+- 🏢 Last seen building platforms at CRED 
+- 🌱 Constantly learning and exploring new tech
+- 📝 Maintaining useful code snippets and documentation
+
+## Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/hinupurthakur)
+- 🐦 [Twitter/X](https://twitter.com/hinupurthakur)
+
+---
+
+*"Code is like humor. When you have to explain it, it's bad." – Cory House*
