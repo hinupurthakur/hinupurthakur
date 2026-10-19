@@ -7,7 +7,7 @@
 
 I'm an engineer based in India with a passion for building practical solutions and sharing knowledge.
 
-- 🏢 Last seen building platforms at Snabbit 
+- 🏢 Last seen building secure platforms at Swish. 
 - 🌱 Constantly learning and exploring new tech
 - 📝 Maintaining useful code snippets and documentation
 
