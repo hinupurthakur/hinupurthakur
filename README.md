@@ -1,7 +1,7 @@
 
 # Hi there, I'm Nupur 👋
 
-> 🚀 Currently vibing at [@Snabbit](https://snabbit.com/)
+> 🚀 Currently vibing at [@SwishHQ](https://justswish.in/)
 
 ## About Me
 
